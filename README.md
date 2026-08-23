@@ -1,6 +1,9 @@
 # Atividades
 # Homeworks
 
+Este repositório é para listas, trabalhos e atividades durante a graduação em Sistema da Informação.
+This repository is for assignments, coursework, and projects for my undergraduate degree in Information Systems.
+
 Atividade 01 - Activity 01:
 
 Programa que consiste em exibir a frase "Hello World!" utilizando a linguagem de programação Python.
